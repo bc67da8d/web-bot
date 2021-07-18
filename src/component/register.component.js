@@ -32,7 +32,7 @@ class Register extends React.Component {
 		e.preventDefault();
 		console.log("You clicked submit.");
 		axios
-			.post(config.host.register, {
+			.post(config.host.url + config.host.register, {
 				username: this.state.username,
 				password: this.state.password,
 				password_confirmation: this.state.password_confirmation,

@@ -29,7 +29,7 @@ class Profile extends Component {
   componentDidMount() {
     // console.log(JSON.parse(localStorage.getItem("currentUser")));
     axios
-      .get(config.user.detail + this.state.currentUser.id, {
+      .get(config.host.url + config.host.user.detail + this.state.currentUser.id, {
         headers: {
           Authorization: 'Bearer ' + this.state.currentUser.token
         }

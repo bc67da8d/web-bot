@@ -1,11 +1,12 @@
 {
 	"host": {
-		"login": "http://localhost:5000/user/login",
-		"register": "http://localhost:5000/user/create",
+		"url": "http://localhost:5000",
+		"login": "/user/login",
+		"register": "/user/create",
 		"user": {
-			"detail": "http://localhost:5000/user/",
-			"list": "http://localhost:5000/user",
-			"update": "http://localhost:5000/user/update/"
+			"detail": "/user/",
+			"list": "/user",
+			"update": "/user/update/"
 		},
 		"x": "http://localhost:5000/user/login"
 	}

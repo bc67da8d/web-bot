@@ -30,7 +30,7 @@ class Login extends React.Component {
 		e.preventDefault();
 		console.log("You clicked submit.");
 		axios
-			.post(config.host.login, {
+			.post(config.host.url + config.host.login, {
 				username: this.state.username,
 				password: this.state.password,
 			})

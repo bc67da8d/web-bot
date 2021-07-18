@@ -14,7 +14,7 @@ class Userlist extends React.Component {
 
 	componentDidMount() {
 		axios
-			.get(config.host.user.list, {
+			.get(config.host.url + config.host.user.list, {
 				headers: {
 					Authorization: "Bearer " + this.state.currentUser.token,
 				}

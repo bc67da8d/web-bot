@@ -62,7 +62,7 @@ class ProfileUpdate extends Component {
     }
     axios
       .post(
-        config.host.user.update + this.state.currentUser.id,
+        config.host.url + config.host.user.update + this.state.currentUser.id,
         {
           firstname: this.state.firstname,
           lastname: this.state.lastname,
@@ -95,7 +95,7 @@ class ProfileUpdate extends Component {
   componentDidMount() {
     // console.log(JSON.parse(localStorage.getItem("currentUser")));
     axios
-      .get("http://localhost:5000/user/" + this.state.currentUser.id, {
+      .get(config.host.url + config.host.user.detail + this.state.currentUser.id, {
         headers: {
           Authorization: "Bearer " + this.state.currentUser.token,
         },
@@ -173,10 +173,10 @@ class ProfileUpdate extends Component {
               <option value="female">Female</option>
             </select>
           </p>
+          <input type="submit" />
           <button type="button" onClick={this.goBack}>
             Go back
           </button>
-          <input type="submit" />
         </form>
       </div>
     );
