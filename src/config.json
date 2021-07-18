@@ -3,6 +3,7 @@
 		"login": "http://localhost:5000/user/login",
 		"register": "http://localhost:5000/user/create",
 		"user": {
+			"detail": "http://localhost:5000/user/",
 			"list": "http://localhost:5000/user",
 			"update": "http://localhost:5000/user/update/"
 		},

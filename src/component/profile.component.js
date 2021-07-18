@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import AuthService from "../service/auth.service";
 import ProfileUpdate from "../component/profile.update.component";
+import config from "../config.json";
 import axios from "axios";
 import {
   BrowserRouter as Router,
@@ -28,7 +29,7 @@ class Profile extends Component {
   componentDidMount() {
     // console.log(JSON.parse(localStorage.getItem("currentUser")));
     axios
-      .get("http://localhost:5000/user/" + this.state.currentUser.id, {
+      .get(config.user.detail + this.state.currentUser.id, {
         headers: {
           Authorization: 'Bearer ' + this.state.currentUser.token
         }
