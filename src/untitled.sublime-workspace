@@ -1,0 +1,2003 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username\tparameter"
+			],
+			[
+				"ex",
+				"export\tkeyword"
+			],
+			[
+				"fun",
+				"function\tkeyword"
+			],
+			[
+				"con",
+				"Component\twarning"
+			],
+			[
+				"Form",
+				"FormLogin\tclass"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"ext",
+				"extract_first"
+			],
+			[
+				"quo",
+				"quotes"
+			],
+			[
+				"las",
+				"lastCompany"
+			],
+			[
+				"co",
+				"companies"
+			],
+			[
+				"com",
+				"company_type"
+			],
+			[
+				"curre",
+				"currentWard"
+			],
+			[
+				"w",
+				"wards"
+			],
+			[
+				"dis",
+				"district"
+			],
+			[
+				"wr",
+				"wardOrm"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"dist",
+				"district_id"
+			],
+			[
+				"ci",
+				"city_id"
+			],
+			[
+				"pri",
+				"primapry_id"
+			],
+			[
+				"pr",
+				"primapry_id"
+			],
+			[
+				"r",
+				"rindex"
+			],
+			[
+				"inp",
+				"inputfile"
+			],
+			[
+				"d",
+				"districts"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"sk",
+				"skype_password"
+			],
+			[
+				"th",
+				"thread"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"cre",
+				"created_at"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"go",
+				"googleAnalyticPropertyId"
+			],
+			[
+				"hmt",
+				"htmlspecialchars"
+			],
+			[
+				"Sett",
+				"SettingRepository"
+			],
+			[
+				"s",
+				"settingRepo"
+			],
+			[
+				"a",
+				"address"
+			],
+			[
+				"ti",
+				"title\tlocal var"
+			],
+			[
+				"q",
+				"querySelector\tmethod"
+			],
+			[
+				"querySelecto",
+				"querySelectorAll\tmethod"
+			],
+			[
+				"pro",
+				"product\tvar"
+			],
+			[
+				"text",
+				"textByLine\tlocal var"
+			],
+			[
+				"st",
+				"style\twarning"
+			],
+			[
+				"sty",
+				"styles\tconst"
+			],
+			[
+				"_get",
+				"_getMessageKey\tconst"
+			],
+			[
+				"te",
+				"templateCurlPart2"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"wi",
+				"write"
+			],
+			[
+				"tem",
+				"templateCurl"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inner",
+				"innerText\tproperty"
+			],
+			[
+				"im",
+				"image_name"
+			],
+			[
+				"na",
+				"image_name"
+			],
+			[
+				"dir",
+				"dir2"
+			],
+			[
+				"prog",
+				"prog"
+			],
+			[
+				"Run",
+				"RuntimeException"
+			],
+			[
+				"en",
+				"endTime"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"fa",
+				"false\tkeyword"
+			],
+			[
+				"sw",
+				"swaggerDocument\tconst"
+			],
+			[
+				"fu",
+				"function\tkeyword"
+			],
+			[
+				"with",
+				"withId\tparameter"
+			],
+			[
+				"u",
+				"user\tparameter"
+			],
+			[
+				"contr",
+				"contract\tparameter"
+			],
+			[
+				"ref",
+				"refUser\twarning"
+			],
+			[
+				"res",
+				"response1\tparameter"
+			],
+			[
+				"crea",
+				"createModel\tmethod"
+			],
+			[
+				"cons",
+				"console\tvar"
+			],
+			[
+				"mdo",
+				"models\tproperty"
+			],
+			[
+				"cosn",
+				"const\tkeyword"
+			],
+			[
+				"linux",
+				"linux-x86_64"
+			],
+			[
+				"cu",
+				"currentData"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"add",
+				"addAction"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Noti",
+				"Notify"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"arrk",
+				"array_key_exists"
+			],
+			[
+				"arr",
+				"array_values"
+			],
+			[
+				"fora",
+				"foreach\tforeach …"
+			],
+			[
+				"au",
+				"authUser"
+			],
+			[
+				"chan",
+				"channel_hook"
+			],
+			[
+				"cah",
+				"channel_hook"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"e",
+				"exception"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"me",
+				"messsage"
+			],
+			[
+				"Sla",
+				"SlackMessage"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"unit_",
+				"unit_price_format"
+			],
+			[
+				"produ",
+				"product_name"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"deta",
+				"detail"
+			],
+			[
+				"det",
+				"details"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"A",
+				"Artisan"
+			],
+			[
+				"sen",
+				"sendEmail"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"wor",
+				"worker_id"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"order",
+				"order"
+			],
+			[
+				"in_",
+				"in_offline_mode"
+			],
+			[
+				"Za",
+				"ZaloConfig"
+			],
+			[
+				"Ba",
+				"BackupDestination"
+			],
+			[
+				"Wa",
+				"WarehouseRepository"
+			],
+			[
+				"ware",
+				"warehouse_type"
+			],
+			[
+				"wa",
+				"warehouse_type"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"categ",
+				"categories"
+			],
+			[
+				"ta",
+				"taho_categories_out"
+			],
+			[
+				"is_s",
+				"is_show"
+			],
+			[
+				"tah",
+				"taho_categories"
+			],
+			[
+				"taho",
+				"taho_categories_out"
+			],
+			[
+				"uniq",
+				"unique"
+			],
+			[
+				"war",
+				"warehouses_group_1"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"D",
+				"Data"
+			],
+			[
+				"po",
+				"pointString"
+			],
+			[
+				"QUA",
+				"QUAN_9"
+			],
+			[
+				"ca",
+				"catalog"
+			],
+			[
+				"lis",
+				"listLocations_search_circle"
+			],
+			[
+				"cir",
+				"checkbox-circle"
+			],
+			[
+				"get",
+				"getLatLng"
+			],
+			[
+				"ser",
+				"search_marker"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "FormLogin.js",
+			"settings":
+			{
+				"buffer_size": 1677,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1381,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "one.css",
+			"settings":
+			{
+				"buffer_size": 22,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": ".text {"
+			}
+		},
+		{
+			"file": "TextTwo.css",
+			"settings":
+			{
+				"buffer_size": 23,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TextOne.js",
+			"settings":
+			{
+				"buffer_size": 192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TextTwo.js",
+			"settings":
+			{
+				"buffer_size": 1695,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap.min.css",
+			"settings":
+			{
+				"buffer_size": 155842,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Demo.js",
+			"settings":
+			{
+				"buffer_size": 1247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "component/profile.update.component.js",
+			"settings":
+			{
+				"buffer_size": 1010,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "service/auth.service.js",
+			"settings":
+			{
+				"buffer_size": 204,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "component/profile.component.js",
+			"settings":
+			{
+				"buffer_size": 1272,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import React, { Component } from \"react\";"
+			}
+		},
+		{
+			"file": "config.json",
+			"settings":
+			{
+				"buffer_size": 63,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		},
+		{
+			"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/config.json",
+			"settings":
+			{
+				"buffer_size": 325,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/user/controller.js",
+			"settings":
+			{
+				"buffer_size": 1300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/crud/dao.js",
+			"settings":
+			{
+				"buffer_size": 1691,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/user/service.js",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/user/model.js",
+			"settings":
+			{
+				"buffer_size": 196,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/server.js",
+			"settings":
+			{
+				"buffer_size": 2543,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/db.json",
+			"settings":
+			{
+				"buffer_size": 915,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Prototype"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Mark",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"min",
+				"Minify::Minify File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"fm",
+				"phpfmt: format now"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 356.0,
+		"history":
+		[
+			"prettier"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/public",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/public/css"
+	],
+	"file_history":
+	[
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/service/auth.service.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/FormLogin.min.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/index.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/FormLogin.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/package.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/Clock.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/Toggle.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/AuthExample.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/Demo.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/note",
+		"/home/caovanthanh/.config/sublime-text-3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/manage-person/src/App.js",
+		"/home/caovanthanh/.config/sublime-text-3/Packages/User/JsPrettier.sublime-settings",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/brainQuote/brainQuote/spiders/detail.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/render/index.html",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/render/print.html",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/blockchain/cat/pending.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/blockchain/cat/config.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/blockchain/cat/deposit.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/app/Quote.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/app/Http/Controllers/TopicController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/resources/views/topic.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/resources/views/author.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/app/Http/Controllers/QuoteController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/resources/views/quote.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/routes/web.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/resources/views/authorQuote.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/app/Http/Controllers/AuthorController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/database/seeds/QuoteSeeder.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/database/seeds/DatabaseSeeder.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/database/migrations/2021_07_03_174855_create_topics_table.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/database/seeds/TopicSeeder.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/app/Topic.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/database/migrations/2021_07_03_174841_create_quotes_table.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/app/Author.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/database/migrations/2021_07_03_174848_create_authors_table.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/.env",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/quote/database/seeds/AuthorSeeder.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/database/seeds/DatabaseSeeder.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/blockchain/cat/harvest.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/blockchain/cat/balance.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/blockchain/cat/omen_contract.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Http/Controllers/SitemapController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/routes/web.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Providers/RouteServiceProvider.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/config/sitemap.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/resources/views/city.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Http/Kernel.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/resources/views/company.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/resources/views/company_detail.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/resources/views/district.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/resources/views/ward.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/html_backend/assets/plugins/bower_components/bootstrap-treeview-master/tests/lib/jquery.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/brun",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/spiders/detail.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/company_detail_1_10k.csv",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/company_detail_3_250.csv",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/company_detail_2_250.csv",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Http/Controllers/CompanyController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/routes/api.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Http/Controllers/DistrictController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Providers/AppServiceProvider.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Http/Controllers/WardController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Http/Controllers/CityController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Http/Controllers/Controller.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/resources/views/errors/404.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/resources/views/errors/layout.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/env.production",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/.env",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/database/seeds/SettingTableSeeder.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Models/Product/Product.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Http/Controllers/Frontend/HomeController.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Models/Sitemap/Sitemap.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Company.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Models/Images/Image.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/composer.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/spiders/company.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/City.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/Ward.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/app/District.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/database/migrations/2021_06_25_072147_create_companies_table.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/company_detail_1_250.csv",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/company_v3.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/prepair_ward.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/ward.csv",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/ward.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/prepair_ward.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/ward.csv",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/database/migrations/2021_06_25_160126_create_wards_table.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/client/ward.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/client/ward.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/client/city.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/prepair_city.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/city_v2.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/spiders/district.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/district.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/client/district.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/spiders/ward.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/client/city.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/spiders/city.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/city.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/ward_v2.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/settings.py",
+		"/home/caovanthanh/crawl",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/company_v2.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/companyCrawl/district.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/companyCrawl/company.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/autobot/dacapCrawler/dacapCrawler/spiders/hemradio.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/client/district.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/database/migrations/2021_06_25_160146_create_districts_table.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/client/crawlDistrict.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/client/crawlWard.py",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/database/migrations/2021_06_25_160057_create_cities_table.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/resources/views/welcome.blade.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/database/seeds/CitySeeder.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/laravel/company/database/seeds/CompanySeeder.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/routes/api.php",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/sphinx.conf.production",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/frontend/package.json",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/server/index.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/frontend/public/index.html",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/frontend/public/about.html",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/frontend/src/AppExplanations/index.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/frontend/src/App.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/frontend/src/controller/faucet.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/frontend/src/controller/accountManager.js",
+		"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/learn/faucet/polygon-faucet/frontend/build/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Http",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Http/Controllers",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Http",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Http/Controllers",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/resources/assets/css",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/resources/assets",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Models",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/config",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend/app/Http/Controllers",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/works/taho-backend",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/justDelete/CoordinateConverterPlus_v2.19.73_apkpure.com_source_from_JADX/sources/com",
+			"/home/caovanthanh/Downloads/TextExpanderTextReplacement•Texpand_v2.0.3-b64f984_apkpure.com_source_from_JADX/sources",
+			"/home/caovanthanh/Downloads/TextExpanderTextReplacement•Texpand_v2.0.3-b64f984_apkpure.com_source_from_JADX/sources/com/isaiasmatewos",
+			"/home/caovanthanh/Downloads/TextExpanderTextReplacement•Texpand_v2.0.3-b64f984_apkpure.com_source_from_JADX/sources",
+			"/home/caovanthanh/Downloads/NicknameCreatorForFF_v3_apkpure.com_source_from_JADX/sources",
+			"/home/caovanthanh/Downloads/NicknameCreatorForFF_v3_apkpure.com_source_from_JADX",
+			"/home/caovanthanh/Downloads/NicknameCreatorForFF_v3_apkpure.com_source_from_JADX/sources/com",
+			"/home/caovanthanh/Downloads/NicknameCreatorForFF_v3_apkpure.com_source_from_JADX/sources",
+			"/home/caovanthanh/Downloads/NicknameCreatorForFF_v3_apkpure.com_source_from_JADX",
+			"/home/caovanthanh/Downloads/FireFreeNameStyleAndNicknameGenerator_vv-1.23_apkpure.com_source_from_JADX",
+			"/home/caovanthanh/Downloads/NicknameCreatorForFF_v3_apkpure.com_source_from_JADX",
+			"/home/caovanthanh/Downloads/NicknameCreatorForFF_v3_apkpure.com_source_from_JADX/sources",
+			"/home/caovanthanh/Downloads/NicknameCreatorForFF_v3_apkpure.com_source_from_JADX",
+			"/home/caovanthanh/Downloads/FireFreeNameStyleAndNicknameGenerator_vv-1.23_apkpure.com_source_from_JADX",
+			"/home/caovanthanh/Downloads/NicknameFire🔥FreeNickfinderApp💎_v3.2_apkpure.com_source_from_JADX",
+			"/home/caovanthanh/Downloads/GFXToolforPUBGGameLauncherOptimizer_v10.0.3_apkpure.com_source_from_JADX",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/justDelete/SnapmodBetterScreenshotsmockupgenerator_v1.6.4_apkpure.com(1)_source_from_JADX/sources",
+			"/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/justDelete/SnapmodBetterScreenshotsmockupgenerator_v1.6.4_apkpure.com(1)_source_from_JADX",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"phường",
+			"\"",
+			"  ",
+			"xxx ",
+			"thị trấn",
+			"tân túc",
+			"xã ",
+			"phường ",
+			"\"",
+			"Xxx ",
+			"phường",
+			"\"",
+			"Xxx ",
+			"phường",
+			"\"",
+			"xxx ",
+			"\"",
+			"xxx ",
+			"PHƯỜNG",
+			"like",
+			"thich",
+			"viewTopic",
+			"author",
+			"authors",
+			"item",
+			"/",
+			"ref",
+			"company_type",
+			"Tra cứu mã số thuế và thông tin công ty",
+			"addSitemap",
+			"Sitemap",
+			"Đang cập nhật...",
+			"start_date",
+			"company_type",
+			"district",
+			"city",
+			"tax_number",
+			"\t",
+			"\n\t",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"    ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"\n    ",
+			"    ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"        ",
+			"\"ID\"",
+			"ID",
+			"h3",
+			"taho",
+			"config(",
+			"Config",
+			"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36\"",
+			"client-s.gateway.messenger.live.com",
+			"572381",
+			"578134",
+			"556374",
+			"Artisan::queue",
+			"Artisan:queue",
+			"Atisan:queue",
+			"sendEmail",
+			"URLtoUser",
+			"setting",
+			"custom-script",
+			"slug",
+			"Slug",
+			"setRepo",
+			"SettingRepository",
+			"hover",
+			"bg-menu-mb",
+			"hover",
+			"bg-menu-mb",
+			".header-desk",
+			"19bf44",
+			".header-mb .top",
+			"border-left: 1px solid #17b341;",
+			".header-desk .func .account .dropdown-toggle, .header-desk .func .account-login .dropdown-toggle",
+			"@",
+			"9b0000",
+			"6d0000",
+			".preloader .ani",
+			"Donate",
+			"MINER_VER",
+			"algorithm",
+			"requested_diff",
+			"PC",
+			"sleep",
+			"ESP",
+			"taho_",
+			"taho",
+			"sphinxsearch.host",
+			"SPHINX_HOST",
+			"SPHINX",
+			"config(",
+			"config",
+			"ENV",
+			"config",
+			"product_rt",
+			"khachhangmoi_warehouse_rt",
+			"SPHINX_HOST",
+			"infoFetchedOpcode",
+			"fetc",
+			"decodeAndExecute0x0",
+			"keyboard"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Phường",
+			"",
+			" ",
+			"",
+			"XXX thị trấn ",
+			"XXX xã ",
+			"XXX xã  ",
+			"XXX phường ",
+			"",
+			"XXX phường",
+			"",
+			"XXX phường",
+			"",
+			"XXX PHƯỜNG",
+			"/t",
+			"",
+			",",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"}",
+			"{",
+			"",
+			"Shippers",
+			"",
+			"10AAEB",
+			"",
+			"Home config",
+			"new",
+			"Tin tức",
+			"push",
+			"Push",
+			"pushs",
+			"push",
+			"Pushs",
+			"pushs",
+			"Pushs",
+			"pushs",
+			"Pushs",
+			"pushs",
+			"Pushs",
+			"pushs",
+			"Pushs",
+			"Push",
+			"pushs",
+			"Push",
+			"",
+			"ref_phone",
+			"storeBrand",
+			"name",
+			"imagename",
+			"image",
+			"brand_id",
+			"",
+			"discount",
+			"formatter->format",
+			"total",
+			"now",
+			"\"",
+			"sms",
+			"Sms",
+			"sms",
+			"customer",
+			"']}}",
+			"['",
+			"customer",
+			"Customer",
+			"customer",
+			"promo",
+			"promoList",
+			"orderList",
+			"order",
+			"newsList",
+			"pdf",
+			"workers",
+			"css')}}\">",
+			"",
+			"/",
+			"{{asset('backend/",
+			"js')}}\"></script>",
+			".css')}}\">",
+			"{{asset('backend/",
+			"asset",
+			"backend",
+			"/",
+			"js')}}\" type",
+			"css')}}\" rel",
+			"')}}\" rel",
+			"')}}\"",
+			"{{assets('backend/js",
+			"{{assets('backend/css",
+			"{{assets('backend/js",
+			"{{assets('backend/css",
+			"{{assets('backend/css/",
+			"{{assets('backend",
+			"class=\"img-circle img-avatar-top-right\"",
+			"url(../plugins/images/login-bg.png)",
+			"url(../plugins/images/login-register.jpg)",
+			"{{asset('assets/",
+			"assets",
+			"asset('frontend/",
+			"js')}}\">",
+			"css')}}\">",
+			"\"{{asset('",
+			"find(1)",
+			"",
+			">Đang tải dữ liệu",
+			"Đang tải dữ liệu",
+			"error",
+			"class=\"text-center bg-light\">\n                                                <span class=\"buttonload w-100\">\n                                                    <i class=\"fa fa-spinner fa-spin m-r-10\"></i>Loading\n                                                </span>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <b>Không có dữ liệu nào</b>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <span class=\"buttonload w-100\">\n                                                    <i class=\"fa fa-spinner fa-spin m-r-10\"></i>Loading\n                                                </span>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <b>Không có dữ liệu nào</b>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <span class=\"buttonload w-100\">\n                                                    <i class=\"fa fa-spinner fa-spin m-r-10\"></i>Loading\n                                                </span>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <b>Không có dữ liệu nào</b>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <span class=\"buttonload w-100\">\n                                                    <i class=\"fa fa-spinner fa-spin m-r-10\"></i>Loading\n                                                </span>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <b>Không có dữ liệu nào</b>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <span class=\"buttonload w-100\">\n                                                    <i class=\"fa fa-spinner fa-spin m-r-10\"></i>Loading\n                                                </span>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <b>Không có dữ liệu nào</b>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <span class=\"buttonload w-100\">\n                                                    <i class=\"fa fa-spinner fa-spin m-r-10\"></i>Loading\n                                                </span>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <b>Không có dữ liệu nào</b>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <span class=\"buttonload w-100\">\n                                                    <i class=\"fa fa-spinner fa-spin m-r-10\"></i>Loading\n                                                </span>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <b>Không có dữ liệu nào</b>\n                                            </td>",
+			"class=\"text-center bg-light\">\n                                                <span class=\"buttonload w-100\">\n                                                    <i class=\"fa fa-spinner fa-spin m-r-10\"></i>Loading\n                                                </span>\n                                            </td>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "FormLogin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1469,
+								1469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1381,
+								1381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 429.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "App.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "one.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".text {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "TextTwo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "TextOne.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "TextTwo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "bootstrap.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155842,
+								155842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Demo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1127,
+								1127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "component/profile.update.component.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "service/auth.service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "component/profile.component.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import React, { Component } from \"react\";",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/user/controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/crud/dao.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1404,
+								1404
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/user/service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1059,
+								1059
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/user/model.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/mnt/e9b46d64-7bc6-4d9d-a340-b89e1acf7519/WorkProjects/bot/backend/db.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 103.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/runJava.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
