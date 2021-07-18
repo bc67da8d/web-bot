@@ -9,11 +9,13 @@ class Register extends React.Component {
 		this.state = {
 			username: "",
 			password: "",
+			password_confirmation: "",
 		};
 		this.useHistory = this.props.useHistory;
 		this.handleSubmit = this.handleSubmit.bind(this);
 		this.handleUsernameChange = this.handleUsernameChange.bind(this);
 		this.handlePasswordChange = this.handlePasswordChange.bind(this);
+		this.handlePasswordConfirmationChange = this.handlePasswordConfirmationChange.bind(this);
 		this.goLogin = this.goLogin.bind(this);
 		console.log(this.useHistory);
 	}
@@ -33,6 +35,7 @@ class Register extends React.Component {
 			.post(config.host.register, {
 				username: this.state.username,
 				password: this.state.password,
+				password_confirmation: this.state.password_confirmation,
 			})
 			.then((res) => {
 				console.log(res);
@@ -55,6 +58,10 @@ class Register extends React.Component {
 		this.setState({ password: event.target.value });
 	}
 
+	handlePasswordConfirmationChange(event) {
+		this.setState({ password_confirmation: event.target.value });
+	}
+
 	render() {
 		return (
 			<div>
@@ -75,6 +82,14 @@ class Register extends React.Component {
 							type="password"
 							value={this.state.password}
 							onChange={this.handlePasswordChange}
+						/>
+						<br />
+						Xác nhận mật khẩu:
+						<input
+							class="form-control"
+							type="password"
+							value={this.state.password_confirmation}
+							onChange={this.handlePasswordConfirmationChange}
 						/>
 						<br />
 						<input type="submit" />

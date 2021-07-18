@@ -56,6 +56,10 @@ class ProfileUpdate extends Component {
 
   handleSubmit(e) {
     e.preventDefault();
+    let gender = this.state.gender;
+    if (!gender){
+      gender = 'male';
+    }
     axios
       .post(
         config.host.user.update + this.state.currentUser.id,
@@ -63,7 +67,7 @@ class ProfileUpdate extends Component {
           firstname: this.state.firstname,
           lastname: this.state.lastname,
           birthdate: this.state.birthdate,
-          gender: this.state.gender
+          gender: gender
         },
         {
           headers: {
