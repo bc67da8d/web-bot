@@ -1,0 +1,9 @@
+version: "3"
+services:
+  bot-web:
+    container_name: ${APPLICATION}-web
+    build: ${DOCKERFILE_DIR}
+    ports:
+      - "${HOST_PORT}:3000"
+    volumes:
+      - ${HOST_WORKING_DIR}:/var/run/application
