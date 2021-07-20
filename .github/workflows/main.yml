@@ -31,11 +31,11 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Logging
-      - uses:
       # Runs a single command using the runners shell
       - working-directory: /home/company/bot/com-hamatim-bot
       # Runs a single command using the runners shell
-      - run: |
+      - name: Run a multi-line script
+        run: |
           pwd,
           echo "Start CI/CD"
 
