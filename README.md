@@ -1,3 +1,12 @@
+[![CI](https://github.com/bc67da8d/web-bot/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/bc67da8d/web-bot/actions/workflows/main.yml)
+# Run with Docker
+```
+$git clone https://github.com/bc67da8d/web-bot.git
+$cd web-bot
+$yarn install
+$yarn build
+$docker composer up --build
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
