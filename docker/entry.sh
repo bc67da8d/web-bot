@@ -1,4 +1,6 @@
 #!/usr/bin/env sh
-echo "Bot web running..."
-nodemon start
+echo "Serve build/..."
+echo $@
+echo $1
+serve -l $@ -s build
 #nodemon --ignore db.json start

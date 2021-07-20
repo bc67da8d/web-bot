@@ -2,7 +2,10 @@ version: "3"
 services:
   bot-web:
     container_name: ${APPLICATION}-web
-    build: ${DOCKERFILE_DIR}
+    build: 
+      context: ${DOCKERFILE_DIR}
+      args:
+        - HOST_PORT=${HOST_PORT}
     ports:
       - "${HOST_PORT}:3000"
     volumes:
