@@ -60,7 +60,7 @@ class Profile extends Component {
           </h3>
         </header>*/}
         <p>
-          <strong>Id:</strong> {currentUser.id}
+          <strong>ID:</strong> {currentUser.id}
         </p>
         <p>
           <strong>Username:</strong> {currentUser.username}
