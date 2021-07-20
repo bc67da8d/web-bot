@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import Dashboard from "./component/dashboard.component";
+import React from "react";
+// import Dashboard from "./component/dashboard.component";
 import Userlist from "./component/user.list.component";
 import Login from "./component/login.component";
 import Register from "./component/register.component";
@@ -12,7 +12,7 @@ import {
   Switch,
   Route,
   Link,
-  withRouter,
+  // withRouter,
   Redirect,
 } from "react-router-dom";
 

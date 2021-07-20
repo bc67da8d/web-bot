@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 import AuthService from "../service/auth.service";
-import ProfileUpdate from "../component/profile.update.component";
+// import ProfileUpdate from "../component/profile.update.component";
 import config from "../config.json";
 import axios from "axios";
 import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link,
+  // BrowserRouter as Router,
+  // Switch,
+  // Route,
+  // Link,
   withRouter,
 } from "react-router-dom";
 

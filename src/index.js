@@ -1,14 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from './App';
-import Clock from "./Clock";
-import FormLogin from "./FormLogin";
-import Dashboard from "./component/dashboard.component";
+// import App from './App';
+// import Clock from "./Clock";
+// import FormLogin from "./FormLogin";
+// import Dashboard from "./component/dashboard.component";
 import Application from "./application";
-import Demo from "./Demo";
-import TextOne from "./TextOne";
-import TextTwo from "./TextTwo";
+// import Demo from "./Demo";
+// import TextOne from "./TextOne";
+// import TextTwo from "./TextTwo";
 import reportWebVitals from "./reportWebVitals";
 import "./bootstrap.min.css";
 import { useHistory } from "react-router-dom";
@@ -18,20 +18,20 @@ function History () {
 	return history;
 }
 
-function GuestGreeting () {
-	return (
-		<h1>Please sign up!</h1>
-	)
-}
+// function GuestGreeting () {
+// 	return (
+// 		<h1>Please sign up!</h1>
+// 	)
+// }
 
-function Greeting(props) {
-  const isLoggedIn = props.isLoggedIn;
+// function Greeting(props) {
+//   const isLoggedIn = props.isLoggedIn;
 
-  if (isLoggedIn) {
-    return <GuestGreeting />;
-  }
-  return <Demo/>;
-}
+//   if (isLoggedIn) {
+//     return <GuestGreeting />;
+//   }
+//   return <Demo/>;
+// }
 
 // ReactDOM.render(
 //   <React.StrictMode>
