@@ -27,7 +27,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - working-directory: /home/company/bot/com-hamatim-bot
-      - run: pwd
+      - name: Log path
+        run: pwd
       - name: Write log
         run: bash log.sh
 
