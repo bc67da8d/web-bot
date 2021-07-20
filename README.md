@@ -5,7 +5,7 @@ $git clone https://github.com/bc67da8d/web-bot.git
 $cd web-bot
 $yarn install
 $yarn build
-$docker composer up --build
+$docker-compose up --build
 ```
 # Getting Started with Create React App
 
