@@ -23,12 +23,17 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      # - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
       # - working-directory: /home/company/bot/com-hamatim-bot
-      - name: Write path
+      - name: Write path default dir
         run: pwd
+
+      - name: Write path with workin dir
+        working-directory: /home/company/bot/com-hamatim-bot
+        run: pwd
+        
       - name: Write log
         run: echo Hello
 
