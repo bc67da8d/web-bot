@@ -61,7 +61,7 @@ class Login extends React.Component {
 				<h1>Đăng nhập</h1>
 				<form action="/" method="GET" onSubmit={this.handleSubmit}>
 					<div class="form-group">
-						Tên đăng nhập:
+						Username:
 						<input
 							class="form-control"
 							type="text"
@@ -69,7 +69,7 @@ class Login extends React.Component {
 							onChange={this.handleUsernameChange}
 						/>
 						<br />
-						Mật khẩu:
+						Password:
 						<input
 							class="form-control"
 							type="password"
