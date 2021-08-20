@@ -19,8 +19,8 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ec2
-    env:
-      GITHUB_BASE_REF: $GITHUB_BASE_REF
+    # env:
+    #   GITHUB_BASE_REF: $GITHUB_BASE_REF
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -60,10 +60,10 @@ jobs:
         working-directory: /home/company/build/web-bot
         run: git checkout $GITHUB_BASE_REF --force
 
-      - name: Pull new code from ${{env.GITHUB_BASE_REF}}
+      - name: Pull new code from $GITHUB_BASE_REF
         if: always()
         working-directory: /home/company/build/web-bot
-        run: git pull $GITHUB_BASE_REF
+        run: git pull origin $GITHUB_BASE_REF
 
         # uses: actions/checkout@v2-beta
         # with:
