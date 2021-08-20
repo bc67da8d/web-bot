@@ -44,11 +44,11 @@ jobs:
 
       - name: Checkout from branch $GITHUB_HEAD_REF
         working-directory: /home/company/build/web-bot
-        run: git checkout origin $GITHUB_HEAD_REF
+        run: git checkout $GITHUB_HEAD_REF
 
-      - name: Try pull from branch $GITHUB_BASE_REF
+      - name: Try pull from branch origin/$GITHUB_BASE_REF
         working-directory: /home/company/build/web-bot
-        run: git pull $GITHUB_BASE_REF
+        run: git pull origin $GITHUB_BASE_REF
 
       - name: Run test case on $GITHUB_HEAD_REF
         working-directory: /home/company/build/web-bot
