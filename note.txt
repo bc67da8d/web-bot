@@ -7,3 +7,4 @@ Add line #5
 Add line #6
 Test case not passed
 Test case passed because use new rc1 testcase
+Add line #7
