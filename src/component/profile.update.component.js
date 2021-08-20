@@ -133,10 +133,10 @@ class ProfileUpdate extends Component {
             <strong>Id:</strong> {currentUser.id}
           </p>
           <p>
-            <strong>Username:</strong> {currentUser.username}
+            <strong style={{color: "red"}}>Username:</strong> {currentUser.username}
           </p>
           <p>
-            <strong>First name:</strong>
+            <strong style={{color: "red"}}>First name:</strong>
             <input
               class="form-control"
               type="text"
