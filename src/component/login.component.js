@@ -58,7 +58,7 @@ class Login extends React.Component {
 	render() {
 		return (
 			<div>
-				<h1>Đăng nhập</h1>
+				<h1 style={{color: "red"}}>Đăng nhập</h1>
 				<form action="/" method="GET" onSubmit={this.handleSubmit}>
 					<div class="form-group">
 						Username:
