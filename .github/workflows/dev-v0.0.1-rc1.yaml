@@ -29,11 +29,39 @@ jobs:
       # - working-directory: /home/company/bot/com-hamatim-bot
       # - name: Write path default dir
       #   run: pwd
+      #
+      - name: What's running?
+        working-directory: /home/company/bot
+        run: echo "Process pull request from $GITHUB_HEAD_REF to $GITHUB_BASE_REF"
 
-      - name: Write path with working dir
-        working-directory: /home/company/bot/com-hamatim-bot
+      - name: Where is the working dir?
+        working-directory: /home/company/build/bot-web
         run: pwd
 
+      - name: Try fetch branchs
+        working-directory: /home/company/bot/com-hamatim-bot
+        run: git fetch
+
+      - name: Checkout from branch $GITHUB_HEAD_REF
+        working-directory: /home/company/bot/com-hamatim-bot
+        run: git checkout $GITHUB_HEAD_REF
+
+      - name: Try pull from branch $GITHUB_BASE_REF
+        working-directory: /home/company/bot/com-hamatim-bot
+        run: git pull $GITHUB_BASE_REF
+
+      - name: Run test case on $GITHUB_HEAD_REF
+        working-directory: /home/company/bot/com-hamatim-bot
+        run: echo "Run mock test"
+
+      - name: Reset code base to $GITHUB_BASE_REF
+        if: always()
+        working-directory: /home/company/bot/com-hamatim-bot
+        run: git checkout $GITHUB_BASE_REF --force
+        # uses: actions/checkout@v2-beta
+        # with:
+        #   repository: 'opencollective/opencollective-frontend'
+        #   ref: master
       # - name: Pull new code
       #   working-directory: /home/company/bot/com-hamatim-bot
       #   run: git pull github master
@@ -50,9 +78,16 @@ jobs:
       #   working-directory: /home/company/bot/com-hamatim-bot
       #   run: yarn build
 
-      - name: Write log
-        working-directory: /home/company/bot
-        run: echo "Pull request from $GITHUB_HEAD_REF to $GITHUB_BASE_REF" >> actions.log
+      # - name: Write log
+      #   working-directory: /home/company/bot
+      #   run: echo "Pull request from $GITHUB_HEAD_REF to $GITHUB_BASE_REF" >> actions.log
+
+      # - name: clean working dir
+      #   if: steps.checkout-matching-branch.outputs.failure === 'true'
+      #   uses: actions/checkout@v2-beta
+      #   with:
+      #     repository: 'opencollective/opencollective-frontend'
+      #     ref: master
 
       # Runs a set of commands using the runners shell
 #       - name: Run a multi-line script
