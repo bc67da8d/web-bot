@@ -1,4 +1,8 @@
-[![CI](https://github.com/bc67da8d/web-bot/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/bc67da8d/web-bot/actions/workflows/main.yml)
+[![CI-master](https://github.com/bc67da8d/web-bot/actions/workflows/master.yml/badge.svg)](https://github.com/bc67da8d/web-bot/actions/workflows/master.yml)
+
+[![CI-main-v0.0.1](https://github.com/bc67da8d/web-bot/actions/workflows/main-v0.0.1.yml/badge.svg)](https://github.com/bc67da8d/web-bot/actions/workflows/main-v0.0.1.yml)
+
+[![CI-dev-v0.0.1-rc1](https://github.com/bc67da8d/web-bot/actions/workflows/dev-v0.0.1-rc1.yaml/badge.svg)](https://github.com/bc67da8d/web-bot/actions/workflows/dev-v0.0.1-rc1.yaml)
 
 # Relate repos
 [https://github.com/bc67da8d/web-bot](https://github.com/bc67da8d/web-bot)
