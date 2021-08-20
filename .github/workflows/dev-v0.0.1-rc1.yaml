@@ -52,7 +52,7 @@ jobs:
 
       - name: Run test case on $GITHUB_HEAD_REF
         working-directory: /home/company/build/web-bot
-        run: echo "Run mock test"
+        run: bash mockTest.sh
 
       - name: Reset code base to $GITHUB_BASE_REF
         if: always()
