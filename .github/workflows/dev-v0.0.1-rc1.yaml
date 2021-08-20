@@ -26,12 +26,12 @@ jobs:
       # - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      # - working-directory: /home/company/bot/com-hamatim-bot
+      # - working-directory: /home/company/build/bot-web
       # - name: Write path default dir
       #   run: pwd
       #
       - name: What's running?
-        working-directory: /home/company/bot
+        working-directory: /home/company/build
         run: echo "Process pull request from $GITHUB_HEAD_REF to $GITHUB_BASE_REF"
 
       - name: Where is the working dir?
@@ -39,47 +39,47 @@ jobs:
         run: pwd
 
       - name: Try fetch branchs
-        working-directory: /home/company/bot/com-hamatim-bot
+        working-directory: /home/company/build/bot-web
         run: git fetch
 
       - name: Checkout from branch $GITHUB_HEAD_REF
-        working-directory: /home/company/bot/com-hamatim-bot
+        working-directory: /home/company/build/bot-web
         run: git checkout $GITHUB_HEAD_REF
 
       - name: Try pull from branch $GITHUB_BASE_REF
-        working-directory: /home/company/bot/com-hamatim-bot
+        working-directory: /home/company/build/bot-web
         run: git pull $GITHUB_BASE_REF
 
       - name: Run test case on $GITHUB_HEAD_REF
-        working-directory: /home/company/bot/com-hamatim-bot
+        working-directory: /home/company/build/bot-web
         run: echo "Run mock test"
 
       - name: Reset code base to $GITHUB_BASE_REF
         if: always()
-        working-directory: /home/company/bot/com-hamatim-bot
+        working-directory: /home/company/build/bot-web
         run: git checkout $GITHUB_BASE_REF --force
         # uses: actions/checkout@v2-beta
         # with:
         #   repository: 'opencollective/opencollective-frontend'
         #   ref: master
       # - name: Pull new code
-      #   working-directory: /home/company/bot/com-hamatim-bot
+      #   working-directory: /home/company/build/bot-web
       #   run: git pull github master
 
       # - name: Update dependencies
-      #   working-directory: /home/company/bot/com-hamatim-bot
+      #   working-directory: /home/company/build/bot-web
       #   run: yarn install
 
       # - name: Perform test
-      #   working-directory: /home/company/bot/com-hamatim-bot
+      #   working-directory: /home/company/build/bot-web
       #   run: yarn test
 
       # - name: Perform build
-      #   working-directory: /home/company/bot/com-hamatim-bot
+      #   working-directory: /home/company/build/bot-web
       #   run: yarn build
 
       # - name: Write log
-      #   working-directory: /home/company/bot
+      #   working-directory: /home/company/build
       #   run: echo "Pull request from $GITHUB_HEAD_REF to $GITHUB_BASE_REF" >> actions.log
 
       # - name: clean working dir
