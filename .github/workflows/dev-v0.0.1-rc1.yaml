@@ -52,7 +52,7 @@ jobs:
 
       - name: Write log
         working-directory: /home/company/bot
-        run: echo "Pull reuqest from $GITHUB_REF to $GITHUB_BASE_REF" >> actions.log
+        run: echo "Pull request from $GITHUB_HEAD_REF to $GITHUB_BASE_REF" >> actions.log
 
       # Runs a set of commands using the runners shell
 #       - name: Run a multi-line script
