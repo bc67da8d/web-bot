@@ -58,6 +58,12 @@ jobs:
         if: always()
         working-directory: /home/company/build/web-bot
         run: git checkout $GITHUB_BASE_REF --force
+
+      - name: Pull new code from {{$GITHUB_BASE_REF}}
+        if: always()
+        working-directory: /home/company/build/web-bot
+        run: git pull $GITHUB_BASE_REF
+
         # uses: actions/checkout@v2-beta
         # with:
         #   repository: 'opencollective/opencollective-frontend'
